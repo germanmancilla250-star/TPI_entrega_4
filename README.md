@@ -27,4 +27,8 @@ Herramienta utilizada
 
 Bizagi Modeler: modelado del proceso BPMN.
 
+Control de versiones
+
+El proyecto utiliza Git y GitHub para registrar cambios, trabajar con ramas secundarias y revisar modificaciones mediante Pull Requests.
+
 
